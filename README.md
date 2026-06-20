@@ -26,21 +26,14 @@ Features:
 
 ---
 
-## File Structure
+## Files
 
 ```
-FIFO_V1/
-│
-├── rtl/
-│   └── fifo.sv
-│
-├── tb/
-│   └── fifo_tb.sv
-│
-├── waveforms/
-│   └── fifo_simulation.png
-│
-└── README.md
+fifo.sv      // FIFO RTL
+fifo_tb.sv   // Testbench with assertions
+fifo_simulation.png   // Simulation waveform
+RTL_schematic.png
+README.md
 ```
 
 ---
