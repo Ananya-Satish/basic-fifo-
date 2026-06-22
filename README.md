@@ -29,6 +29,7 @@ Features:
 ## Files
 
 ```
+block_diagram.png
 fifo.sv      // FIFO RTL
 fifo_tb.sv   // Testbench with assertions
 fifo_simulation.png   // Simulation waveform
